@@ -1,0 +1,63 @@
+body {
+  width: 95%;
+	height: 95%;
+	background-color: grey;
+}
+
+.oneblock {
+ background-color:lightgrey; 
+ width: 50%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:orange;
+}
+
+.twoblock {
+ background-color: gold; 
+ width: 30%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:pink;
+}
+
+.threeblock {
+ background-color: black; 
+ width: 18.8%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:orange;
+}
+
+.fourblock {
+ background-color: silver; 
+ width: 50%;
+ height: 70%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+}
+
+.fiveblock {
+ background-color: yellow; 
+ width: 49%;
+ height: 70%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color: white;
+}
+
+
+p {
+ padding-top: 80px;
+}
+
+.bottom {
+  padding-top: 250px;
+}
